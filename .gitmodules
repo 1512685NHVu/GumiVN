@@ -1,0 +1,3 @@
+[submodule "App_Blog"]
+	path = App_Blog
+	url = https://github.com/1512685NHVu/GumiVN.git
